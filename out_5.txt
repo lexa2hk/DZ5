@@ -1,0 +1,4 @@
+N  Country  ->  Gold  silver  Bronze Total  Pts 
+1 Russia -> 10 10 10 | 30 | 180
+2 Bangladesh -> 3 0 1 | 4 | 26
+3 Pakistan -> 2 5 0 | 7 | 44
